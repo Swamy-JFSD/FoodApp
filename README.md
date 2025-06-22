@@ -95,10 +95,21 @@ This platform is intended for the **general public** — anyone interested in br
   - Support for multi-vendor cart functionality
 
 
+## 🔗 GitHub Repository
+
+🔍 [View Code on GitHub](https://github.com/Swamy-JFSD/FoodApp)
+
+
+## 🌐 Live Demo
+
+🧭 **Zomato – Discover Restaurants** (http://localhost:8080/FOOD_APP_WEB_APPLICATION/)
+
+---
+
 ## 🙋‍♂️ Author
 
 **Swamy M K**  
-GitHub: http://github.com/Swamy-JFSD
+GitHub: [@Swamy-JFSD](https://github.com/Swamy-JFSD)
 
 
 ### 🌟 Support
